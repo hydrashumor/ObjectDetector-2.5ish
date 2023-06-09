@@ -1,0 +1,17 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+a
+{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
